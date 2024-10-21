@@ -5,12 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9288f613-ef75-40a5-869f-2ce8416aab4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Buscador/Buscador.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Buscador/Buscador.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Buscador/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Buscador/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Cardapio.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Cardapio.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Filtros/Filtros.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Filtros/Filtros.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Filtros/filtros.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Filtros/filtros.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Filtros/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Filtros/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Itens/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Itens/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Itens/Item/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Itens/Item/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Itens/Itens.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Itens/Itens.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Itens/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Itens/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Itens/itens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/json/cardapio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Ordenador/Ordenador.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Ordenador/Ordenador.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Ordenador/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Ordenador/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/Ordenador/opcoes.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/Ordenador/opcoes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cardapio/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Cardapio/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_variaveis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_variaveis.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,21 +53,32 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2ncayMn1LfElU4paFAjRjPBodjv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "ts.external.directory.path": "C:\\_\\workspaces\\alura\\alura-react-ts-02-react-router\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_\workspaces\alura\alura-react-ts-02-react-router\src\shared\json" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729275072559</updated>
       <workItem from="1729275074382" duration="438000" />
-      <workItem from="1729517129680" duration="56000" />
+      <workItem from="1729517129680" duration="10163000" />
     </task>
     <servers />
   </component>

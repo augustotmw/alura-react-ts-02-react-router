@@ -8,3 +8,17 @@ body {
   box-sizing: border-box;
   font-family: 'Italiana', serif;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main > nav,
+main > section {
+  width: 100%;
+  max-width: 70%;
+  padding: 20px 0;
+}
