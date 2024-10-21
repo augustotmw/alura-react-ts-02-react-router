@@ -3,6 +3,7 @@ import Home from './modules/Home';
 import Cardapio from './modules/Cardapio';
 import Menu from './shared/components/Menu';
 import Structure from './shared/components/Structure';
+import About from './modules/About';
 
 export default function AppRouter() {
   return (
@@ -13,6 +14,7 @@ export default function AppRouter() {
           <Route path="/" element={<Structure />}>
             <Route index element={<Home />} />
             <Route path="cardapio" element={<Cardapio />} />
+            <Route path="sobre" element={<About />} />
           </Route>
         </Routes>
       </Router>

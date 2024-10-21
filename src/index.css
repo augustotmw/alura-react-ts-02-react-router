@@ -16,9 +16,6 @@ main {
   align-items: center;
 }
 
-main > nav,
-main > section {
+main > section  {
   width: 100%;
-  max-width: 70%;
-  padding: 20px 0;
 }

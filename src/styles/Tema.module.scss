@@ -1,0 +1,13 @@
+@import "variaveis";
+
+.container {
+  width: 100%;
+  max-width: 80%;
+  padding: 20px 0;
+}
+
+.titulo {
+  color: $dark;
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
