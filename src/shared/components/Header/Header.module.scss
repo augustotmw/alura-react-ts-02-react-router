@@ -3,11 +3,12 @@
 
 .header {
   align-items: center;
-  background-image: url("/assets/cardapio/header.png");
+  background-image: url("/assets/imgs/header.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
   height: 300px;
+  min-height: 300px;
   width: 100%;
   justify-content: center;
 

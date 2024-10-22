@@ -7,6 +7,7 @@ export default function Menu() {
     { path: '/', label: 'Home' },
     { path: '/cardapio', label: 'Cardápio' },
     { path: '/sobre', label: 'Sobre' },
+    { path: '/error', label: 'error' },
   ];
 
   return (

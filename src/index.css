@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 
+html, body, #root {
+  display: block;
+  min-height: 100%;
+  width: 100%;
+}
+
 body {
   background-color: #f6f6f6;
 }
@@ -12,10 +18,13 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  height: 100%;
+  min-height: 100vh;
 }
 
 main > section  {
   width: 100%;
+  flex: 1;
 }
